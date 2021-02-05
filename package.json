@@ -1,0 +1,22 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "Express environment construction",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/it-web-life/express_env_construction.git"
+  },
+  "author": "TSUYOSHI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/it-web-life/express_env_construction/issues"
+  },
+  "homepage": "https://github.com/it-web-life/express_env_construction#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
